@@ -10,7 +10,7 @@ provisioner:
 platforms:
 <%
   chef_versions = %w(
-    11.0.0
+    12.5.0
     latest
   )
 
